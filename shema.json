@@ -1,0 +1,26 @@
+shema db:
+mean
+pages:{
+  title: String,
+  Slug: String,
+  content: String
+}
+trajets:{
+ville_depart:String,
+    ville_arrivee:String,
+    adr_rdv:String,
+    adr_depos:String,
+    date:String,
+    type_voiture:String,
+    nbr_place:String,
+    prix:String,
+    id_user:String
+}
+users:{
+username: String,
+    password: String,
+    age: String,
+    adresse: String,
+    email: String,
+    phone: String
+}

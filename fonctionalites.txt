@@ -1,0 +1,16 @@
+fonctionalités:
+angular4
+nodejs
+express
+body-parder
+mongoose
+mongo
+router
+ActivatedRoute
+Components
+Services
+platform-browser
+Http
+routermodule
+Formsmodule
+browsermodule
